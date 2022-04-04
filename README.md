@@ -28,7 +28,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
@@ -93,7 +92,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh190802&hide_border=true&layout=compact" align="center" />  </div>  
 
-
+<div align="center">
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=f7lzmoxhmyiqpyrzcm2srtlds&cover_image=true&theme=default)  
 
 <br/>  
