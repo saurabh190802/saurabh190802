@@ -90,7 +90,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saurabh190802&show_icons=true&count_private=true&hide_border=true" align="center" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh190802&hide_border=true&layout=compact" align="center" />  </div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh190802&hide_border=true&layout=compact" align="center" />  
 
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=f7lzmoxhmyiqpyrzcm2srtlds&cover_image=true&theme=default)  
@@ -103,6 +103,7 @@
   
 
 <br/>  
+  </div>  
 
 
 <br />
