@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" background-color="transparent" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600"  />
 </div>  
   
 
@@ -49,11 +49,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+<!-- </td><td valign="top" width="33%">
 
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%"> -->
 
 
 
@@ -91,7 +91,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saurabh190802&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh190802&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh190802&hide_border=true&layout=compact" align="center" />  
 
 <br/>  
 
