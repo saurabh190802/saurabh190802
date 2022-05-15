@@ -84,7 +84,7 @@
   
 
 <br/>  
-<!--START_SECTION:activity-->
+
 
 
 
@@ -114,3 +114,5 @@
 
 ----
 <div align="center">Thanks for visiting </div>
+
+<!--START_SECTION:activity-->
