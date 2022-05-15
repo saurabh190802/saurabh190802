@@ -92,6 +92,16 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#56](https://github.com/Cryptonaline/Cryptonaline-App/issues/56) in [Cryptonaline/Cryptonaline-App](https://github.com/Cryptonaline/Cryptonaline-App)
+2. ❗️ Closed issue [#46](https://github.com/Cryptonaline/Cryptonaline-App/issues/46) in [Cryptonaline/Cryptonaline-App](https://github.com/Cryptonaline/Cryptonaline-App)
+3. 🗣 Commented on [#46](https://github.com/Cryptonaline/Cryptonaline-App/issues/46) in [Cryptonaline/Cryptonaline-App](https://github.com/Cryptonaline/Cryptonaline-App)
+4. 🎉 Merged PR [#55](https://github.com/Cryptonaline/Cryptonaline-App/pull/55) in [Cryptonaline/Cryptonaline-App](https://github.com/Cryptonaline/Cryptonaline-App)
+5. 💪 Opened PR [#55](https://github.com/Cryptonaline/Cryptonaline-App/pull/55) in [Cryptonaline/Cryptonaline-App](https://github.com/Cryptonaline/Cryptonaline-App)
+6. ❗️ Closed issue [#1](https://github.com/sidmohanty11/jagruti/issues/1) in [sidmohanty11/jagruti](https://github.com/sidmohanty11/jagruti)
+7. 🗣 Commented on [#1](https://github.com/sidmohanty11/jagruti/issues/1) in [sidmohanty11/jagruti](https://github.com/sidmohanty11/jagruti)
+8. 🎉 Merged PR [#4](https://github.com/sidmohanty11/jagruti/pull/4) in [sidmohanty11/jagruti](https://github.com/sidmohanty11/jagruti)
+9. 💪 Opened PR [#4](https://github.com/sidmohanty11/jagruti/pull/4) in [sidmohanty11/jagruti](https://github.com/sidmohanty11/jagruti)
+<!--END_SECTION:activity-->
 
 
 ## Github Stats  
