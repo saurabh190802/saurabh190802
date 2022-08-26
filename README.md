@@ -134,5 +134,28 @@
 ----
 <div align="center">Thanks for visiting </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh190802&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh190802" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh190802" alt="saurabh190802" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@saurabhsatapat1" target="blank"><img src="https://img.shields.io/twitter/follow/@saurabhsatapat1?logo=twitter&style=for-the-badge" alt="@saurabhsatapat1" /></a> </p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/saurabh190802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saurabh190802" height="30" width="40" /></a>
+<a href="https://twitter.com/@saurabhsatapat1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saurabhsatapat1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saurabh-satapathy-692a6a1b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-satapathy-692a6a1b9" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh190802&show_icons=true&locale=en&layout=compact" alt="saurabh190802" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh190802&show_icons=true&locale=en" alt="saurabh190802" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh190802&" alt="saurabh190802" /></p>
+
 
 
