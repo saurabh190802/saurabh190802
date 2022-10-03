@@ -98,14 +98,14 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#246](https://github.com/avinash201199/Competitions-and-Programs-List/pull/246) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
-2. ❗️ Opened issue [#111](https://github.com/tanyagupta0201/LeetCode-Problems-Solutions/issues/111) in [tanyagupta0201/LeetCode-Problems-Solutions](https://github.com/tanyagupta0201/LeetCode-Problems-Solutions)
-3. 💪 Opened PR [#110](https://github.com/tanyagupta0201/LeetCode-Problems-Solutions/pull/110) in [tanyagupta0201/LeetCode-Problems-Solutions](https://github.com/tanyagupta0201/LeetCode-Problems-Solutions)
-4. ❗️ Opened issue [#240](https://github.com/avinash201199/Competitions-and-Programs-List/issues/240) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
-5. 🗣 Commented on [#236](https://github.com/avinash201199/Competitions-and-Programs-List/issues/236) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
-6. 🗣 Commented on [#229](https://github.com/avinash201199/Competitions-and-Programs-List/issues/229) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
-7. 💪 Opened PR [#239](https://github.com/avinash201199/Competitions-and-Programs-List/pull/239) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
-8. 🗣 Commented on [#229](https://github.com/avinash201199/Competitions-and-Programs-List/issues/229) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
+1. 🗣 Commented on [#236](https://github.com/avinash201199/Competitions-and-Programs-List/issues/236) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
+2. 💪 Opened PR [#246](https://github.com/avinash201199/Competitions-and-Programs-List/pull/246) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
+3. ❗️ Opened issue [#111](https://github.com/tanyagupta0201/LeetCode-Problems-Solutions/issues/111) in [tanyagupta0201/LeetCode-Problems-Solutions](https://github.com/tanyagupta0201/LeetCode-Problems-Solutions)
+4. 💪 Opened PR [#110](https://github.com/tanyagupta0201/LeetCode-Problems-Solutions/pull/110) in [tanyagupta0201/LeetCode-Problems-Solutions](https://github.com/tanyagupta0201/LeetCode-Problems-Solutions)
+5. ❗️ Opened issue [#240](https://github.com/avinash201199/Competitions-and-Programs-List/issues/240) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
+6. 🗣 Commented on [#236](https://github.com/avinash201199/Competitions-and-Programs-List/issues/236) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
+7. 🗣 Commented on [#229](https://github.com/avinash201199/Competitions-and-Programs-List/issues/229) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
+8. 💪 Opened PR [#239](https://github.com/avinash201199/Competitions-and-Programs-List/pull/239) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
 9. 🗣 Commented on [#229](https://github.com/avinash201199/Competitions-and-Programs-List/issues/229) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
 <!--END_SECTION:activity-->
 
