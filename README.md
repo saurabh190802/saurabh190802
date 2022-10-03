@@ -98,10 +98,10 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24536](https://github.com/timburgan/timburgan/issues/24536) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗️ Opened issue [#24535](https://github.com/timburgan/timburgan/issues/24535) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Closed issue [#2](https://github.com/saurabh190802/socialerns/issues/2) in [saurabh190802/socialerns](https://github.com/saurabh190802/socialerns)
-4. 🗣 Commented on [#2](https://github.com/saurabh190802/socialerns/issues/2) in [saurabh190802/socialerns](https://github.com/saurabh190802/socialerns)
+1. 🗣 Commented on [#229](https://github.com/avinash201199/Competitions-and-Programs-List/issues/229) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
+2. ❗️ Opened issue [#236](https://github.com/avinash201199/Competitions-and-Programs-List/issues/236) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
+3. ❗️ Opened issue [#24536](https://github.com/timburgan/timburgan/issues/24536) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+4. ❗️ Opened issue [#24535](https://github.com/timburgan/timburgan/issues/24535) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 5. ❗️ Opened issue [#4](https://github.com/saurabh190802/zixwer_rn_task/issues/4) in [saurabh190802/zixwer_rn_task](https://github.com/saurabh190802/zixwer_rn_task)
 6. ❗️ Opened issue [#3](https://github.com/saurabh190802/zixwer_rn_task/issues/3) in [saurabh190802/zixwer_rn_task](https://github.com/saurabh190802/zixwer_rn_task)
 7. ❗️ Opened issue [#2](https://github.com/saurabh190802/zixwer_rn_task/issues/2) in [saurabh190802/zixwer_rn_task](https://github.com/saurabh190802/zixwer_rn_task)
