@@ -100,15 +100,15 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#260](https://github.com/avinash201199/Competitions-and-Programs-List/issues/260) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
-2. 💪 Opened PR [#263](https://github.com/avinash201199/Competitions-and-Programs-List/pull/263) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
-3. 🎉 Merged PR [#2](https://github.com/saurabh190802/Competitions-and-Programs-List/pull/2) in [saurabh190802/Competitions-and-Programs-List](https://github.com/saurabh190802/Competitions-and-Programs-List)
-4. 💪 Opened PR [#2](https://github.com/saurabh190802/Competitions-and-Programs-List/pull/2) in [saurabh190802/Competitions-and-Programs-List](https://github.com/saurabh190802/Competitions-and-Programs-List)
-5. ❌ Closed PR [#260](https://github.com/avinash201199/Competitions-and-Programs-List/pull/260) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
-6. 💪 Opened PR [#260](https://github.com/avinash201199/Competitions-and-Programs-List/pull/260) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
-7. 🎉 Merged PR [#1](https://github.com/saurabh190802/Competitions-and-Programs-List/pull/1) in [saurabh190802/Competitions-and-Programs-List](https://github.com/saurabh190802/Competitions-and-Programs-List)
-8. 💪 Opened PR [#1](https://github.com/saurabh190802/Competitions-and-Programs-List/pull/1) in [saurabh190802/Competitions-and-Programs-List](https://github.com/saurabh190802/Competitions-and-Programs-List)
-9. ❌ Closed PR [#252](https://github.com/avinash201199/Competitions-and-Programs-List/pull/252) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
+1. 🎉 Merged PR [#1](https://github.com/saurabh190802/C-PROGRAMS/pull/1) in [saurabh190802/C-PROGRAMS](https://github.com/saurabh190802/C-PROGRAMS)
+2. 🗣 Commented on [#260](https://github.com/avinash201199/Competitions-and-Programs-List/issues/260) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
+3. 💪 Opened PR [#263](https://github.com/avinash201199/Competitions-and-Programs-List/pull/263) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
+4. 🎉 Merged PR [#2](https://github.com/saurabh190802/Competitions-and-Programs-List/pull/2) in [saurabh190802/Competitions-and-Programs-List](https://github.com/saurabh190802/Competitions-and-Programs-List)
+5. 💪 Opened PR [#2](https://github.com/saurabh190802/Competitions-and-Programs-List/pull/2) in [saurabh190802/Competitions-and-Programs-List](https://github.com/saurabh190802/Competitions-and-Programs-List)
+6. ❌ Closed PR [#260](https://github.com/avinash201199/Competitions-and-Programs-List/pull/260) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
+7. 💪 Opened PR [#260](https://github.com/avinash201199/Competitions-and-Programs-List/pull/260) in [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)
+8. 🎉 Merged PR [#1](https://github.com/saurabh190802/Competitions-and-Programs-List/pull/1) in [saurabh190802/Competitions-and-Programs-List](https://github.com/saurabh190802/Competitions-and-Programs-List)
+9. 💪 Opened PR [#1](https://github.com/saurabh190802/Competitions-and-Programs-List/pull/1) in [saurabh190802/Competitions-and-Programs-List](https://github.com/saurabh190802/Competitions-and-Programs-List)
 <!--END_SECTION:activity-->
 
 
