@@ -137,7 +137,7 @@
 
 <!-- Markdown -->
 <div align="center">
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=saurabh190802&width=600)
+  
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
   </div>
