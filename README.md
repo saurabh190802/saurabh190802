@@ -132,6 +132,9 @@
 
 
 <br />
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ----
 <div align="center">Thanks for visiting </div>
