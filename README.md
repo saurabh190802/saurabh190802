@@ -6,7 +6,7 @@
 ### **<div align="center">I'm Saurabh, a Computer Science Undergraduate 👨‍💻</div>**  
   
 
-- 🌱 Second Year CSE Undergraduate at OUTR ( Formerly CET - Bhubaneswar) | BSc(Data Science & Programming) at IIT Madras  
+- 🌱 Final Year CSE Undergraduate at OUTR ( Formerly CET - Bhubaneswar) | BSc(Data Science & Programming) at IIT Madras  
   
 
 - ❓ Ask me about anything related to technologies  
